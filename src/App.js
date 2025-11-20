@@ -7,7 +7,7 @@ function App() {
     <>
     <div className="section1">
       <form className="login-form">
-        <h1>Login</h1>
+        <h1>Login Form</h1>
 
         <input
           type="text"
