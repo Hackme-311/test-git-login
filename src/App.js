@@ -17,7 +17,7 @@ function App() {
 
         <input
           type="password"
-          placeholder="Enter your password"
+          placeholder="Enter your password in number"
           className="input-box"
         />
 
