@@ -11,7 +11,7 @@ function App() {
 
         <input
           type="text"
-          placeholder="Enter your username"
+          placeholder="Enter your fullname in detail"
           className="input-box"
         />
 
