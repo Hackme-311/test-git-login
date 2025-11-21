@@ -21,6 +21,8 @@ function App() {
           className="input-box"
         />
 
+        <h1>hii i am kirt madam</h1>
+
         <button className="btn">Submit</button>
       </form>
     </div>
